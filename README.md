@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Adilzhan Bekmukhanbetov
+# 👋 Hey there! I'm Adilzhan Baidalin
 
 <div align="center">
   
