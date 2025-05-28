@@ -104,27 +104,6 @@ class AdilzhanBekmukhanbetov:
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdilzhanB&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdilzhanB&layout=compact&langs_count=8&theme=radical"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AdilzhanB&theme=radical" alt="GitHub Streak" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AdilzhanB&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
-</div>
-
----
-
 ## 🔥 Recent Activity
 
 <div align="center">
@@ -141,9 +120,8 @@ class AdilzhanBekmukhanbetov:
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://github.com/AdilzhanB)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adilzhanb)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/adilzhanb)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
+[![Instagram](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)]([https://twitter.com/adilzhanb](https://www.instagram.com/baidalin_adilzhan/#))
+[![Gamil](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adekabai2012@gmail.com)
 </div>
 
 ---
