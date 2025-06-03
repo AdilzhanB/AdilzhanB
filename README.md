@@ -13,7 +13,7 @@
 I'm a passionate **AI Engineer** and **Researcher** focused on pushing the boundaries of artificial intelligence. Currently diving deep into **Computer Vision**, **Natural Language Processing**, **Large Language Models**, and **AI Agents** while building innovative startups and research projects.
 
 ```python
-class AdilzhanBekmukhanbetov:
+class AdilzhanBaidalin:
     def __init__(self):
         self.username = "AdilzhanB"
         self.current_focus = [
