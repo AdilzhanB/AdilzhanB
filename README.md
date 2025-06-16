@@ -33,39 +33,6 @@ class AdilzhanBaidalin:
 ```
 ---
 
-## 📊 **Analytics Hub**
-
-<table align="center">
-<tr>
-<td>
-
-### 🎯 **Performance Metrics**
-```yaml
-🌟 GitHub Stars Earned:     ⭐ Loading...
-🔥 Total Commits (2025):    💫 Loading...
-🚀 Pull Requests:           🔄 Loading...
-🐛 Issues Opened:           📝 Loading...
-📈 Repositories:            📁 Loading...
-```
-
-</td>
-<td>
-
-### 🏆 **Achievement Board**
-```diff
-+ 💯 Contribution Streak: XX days
-+ 🎖️  Best Streak Record: XX days
-+ 📅 Coding Since: 2024
-+ 🌐 Public Repos: XX
-+ 👥 Followers: XX
-```
-
-</td>
-</tr>
-</table>
-
----
-
 ## 🎨 **Tech Arsenal**
 
 <div align="center">
