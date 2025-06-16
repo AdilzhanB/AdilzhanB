@@ -33,7 +33,17 @@ class AdilzhanBaidalin:
 ```
 ---
 <div align="center">
+---
+  ## 🔥 **365 Days of Code**
 
+<div align="center">
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=AdilzhanB&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF6B6B&area=true&area_color=00D4FF)
+
+</div>
+
+<!-- Alternative styling options -->
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=AdilzhanB&custom_title=AdilzhanB's%20Contribution%20Graph&bg_color=0D1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true)
 ---
 
 ## 📊 **Analytics Hub**
