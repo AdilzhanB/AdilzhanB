@@ -5,6 +5,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=AI+Engineer+%26+Researcher;Building+the+Future+with+AI)
 
 </div>
+
 ---
 
 ## 🚀 About Me
@@ -30,13 +31,6 @@ class AdilzhanBaidalin:
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together!")
 ```
----
-
-<div align="center">
-
-![Snake animation](https://github.com/AdilzhanB/AdilzhanB/blob/output/github-contribution-grid-snake.svg)
-
-</div>
 ---
 
 ## 📊 **Analytics Hub**
