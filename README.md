@@ -31,7 +31,137 @@ class AdilzhanBaidalin:
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together!")
 ```
+---
+<div align="center">
 
+# 🚀 AdilzhanB's Developer Dashboard
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Problem+Solver;Code+Architect" alt="Typing SVG" />
+
+---
+
+## 📊 **Analytics Hub**
+
+<table align="center">
+<tr>
+<td>
+
+### 🎯 **Performance Metrics**
+```yaml
+🌟 GitHub Stars Earned:     ⭐ Loading...
+🔥 Total Commits (2025):    💫 Loading...
+🚀 Pull Requests:           🔄 Loading...
+🐛 Issues Opened:           📝 Loading...
+📈 Repositories:            📁 Loading...
+```
+
+</td>
+<td>
+
+### 🏆 **Achievement Board**
+```diff
++ 💯 Contribution Streak: XX days
++ 🎖️  Best Streak Record: XX days
++ 📅 Coding Since: 2024
++ 🌐 Public Repos: XX
++ 👥 Followers: XX
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎨 **Tech Arsenal**
+
+<div align="center">
+
+### 🔧 **Languages & Frameworks**
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdilzhanB&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF)
+
+### 📈 **GitHub Statistics**
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdilzhanB&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&count_private=true" />
+
+### 🔥 **Contribution Flame**
+
+![GitHub Streak](https://streak-stats.demolab.com?user=AdilzhanB&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=8B949E)
+
+</div>
+
+---
+
+## 🌌 **Activity Constellation**
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AdilzhanB&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF6B6B)
+
+</div>
+
+---
+
+## 🎭 **Profile Highlights**
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🎯 **Focus Areas**
+```mermaid
+graph LR
+    A[Frontend] --> B[React/Vue]
+    C[Backend] --> D[Node.js/Python]
+    E[Mobile] --> F[React Native]
+    G[AI/ML] --> H[TensorFlow/PyTorch]
+```
+
+</td>
+<td align="center" width="33%">
+
+### 🚀 **Current Mission**
+- 🔬 Exploring AI/ML
+- 🌐 Building Full-Stack Apps
+- 📱 Mobile Development
+- 🎨 UI/UX Design
+
+</td>
+<td align="center" width="33%">
+
+### 💡 **Fun Facts**
+- ☕ Coffee-driven developer
+- 🌙 Night owl coder
+- 🎮 Gaming enthusiast
+- 📚 Continuous learner
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🎪 **Connect & Collaborate**
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+### 💫 **"Code is poetry written in logic"** 💫
+
+![Profile Views](https://komarev.com/ghpvc/?username=AdilzhanB&color=00D4FF&style=for-the-badge&label=Profile+Views)
+
+</div>
+
+</div>
+---
 ---
 
 ## 🛠️ Tech Stack & Tools
