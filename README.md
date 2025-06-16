@@ -205,45 +205,6 @@ graph LR
 
 ---
 
-## 🎯 Current Focus Areas
-
-<table>
-<tr>
-<td width="50%">
-
-### 🧠 AI Research
-- **Large Language Models (LLMs)**
-- **Computer Vision Applications** 
-- **Natural Language Processing**
-- **Reinforcement Learning**
-- **Deep Learning Architectures**
-
-</td>
-<td width="50%">
-
-### 🚀 Building & Innovation
-- **AI Agents Development**
-- **Startup Projects**
-- **Open Source Contributions**
-- **Research Publications**
-- **Tech Community Engagement**
-
-</td>
-</tr>
-</table>
-
----
-
-## 🔥 Recent Activity
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AdilzhanB&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true)
-
-</div>
-
----
-
 ## 🤝 Let's Connect & Collaborate!
 
 <div align="center">
