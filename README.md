@@ -6,17 +6,6 @@
 
 </div>
 ---
-<div align="center">
-
-## 🌌 **Coding Journey**
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=AdilzhanB&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&area_color=1a365d&title_color=00d4ff&custom_title=🚀%20AdilzhanB's%20Contribution%20Galaxy)
-
-### 📈 **Contribution Stats**
-![Commits](https://img.shields.io/badge/dynamic/json?label=Total%20Commits&query=$.totalCommits&url=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AdilzhanB&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_rank=true&hide_title=true&card_width=400&hide=stars,prs,issues,contribs&show=commits&style=for-the-badge&color=00d4ff)
-
-</div>
----
 
 ## 🚀 About Me
 
