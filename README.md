@@ -47,7 +47,8 @@ class AdilzhanBaidalin:
 
 ### 🔥 **Contribution Flame**
 
-![GitHub Streak](https://streak-stats.demolab.com?user=AdilzhanB&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=8B949E)
+![GitHub Streak](https://streak-stats.demolab.com?user=AdilzhanB&theme=tokyonight_duo&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=8B949E)
+
 
 </div>
 
