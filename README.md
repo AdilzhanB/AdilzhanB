@@ -75,10 +75,10 @@ class AdilzhanBaidalin:
 ### 🎯 **Focus Areas**
 ```mermaid
 graph LR
-    A[Frontend] --> B[React/Vue]
-    C[Backend] --> D[Node.js/Python]
-    E[Mobile] --> F[React Native]
-    G[AI/ML] --> H[TensorFlow/PyTorch]
+    A[Frontend] --> B[React/Typescript]
+    C[Backend] --> D[FastAPI/Flask]
+    E[Mobile] --> F[Flutter]
+    G[AI/ML] --> H[Transformers/PyTorch/Scikit-learn]
 ```
 
 </td>
