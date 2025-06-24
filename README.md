@@ -173,4 +173,4 @@ graph LR
 
 ---
 
-⭐️ **From [AdilzhanB](https://github.com/AdilzhanB)** - *Always learning, always building!*
+⭐️ **From [AdilzhanB](https://github.com/AdilzhanB)** - *Always learning, always building*
