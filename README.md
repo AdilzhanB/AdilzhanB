@@ -43,7 +43,7 @@ class AdilzhanBaidalin:
 
 ### 📈 **GitHub Statistics**
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdilzhanB&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Danchouvzv&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&count_private=true" />
 
 ### 🔥 **Contribution Flame**
 
