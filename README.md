@@ -95,10 +95,8 @@ graph LR
 
 ### 💡 **Fun Facts**
 - ☕ Coffee-driven developer
-- 🌙 Night owl coder
-- 🎮 Gaming enthusiast
 - 📚 Continuous learner
-
+- Competetive programmer
 </td>
 </tr>
 </table>
