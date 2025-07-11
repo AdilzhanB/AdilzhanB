@@ -165,7 +165,7 @@ graph LR
 ### 💭 *"The future belongs to those who believe in the beauty of their dreams."*
 
 **Let's build the future of AI together! 🚀**
-![Profile Views](https://komarev.com/ghpvc/?username=AdilzhanB&color=00D4FF&style=plastic&base=1000&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=AdilzhanB&color=00D4FF&style=plastic&label=Profile+Views)
 
 </div>
 
