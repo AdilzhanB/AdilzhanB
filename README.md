@@ -154,7 +154,7 @@ graph LR
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adilzhan-baidalin-55b810338/)
 [![Instagram](https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/baidalin_adilzhan/#)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adekabai2012@gmail.com)
-[![Leetcode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode)](https://leetcode.com/u/adilbai)
+[![Leetcodee](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode)](https://leetcode.com/u/adilbai)
 [![Codeforces](https://img.shields.io/badge/CodeForces-%231F8ACB?style=for-the-badge&logo=codeforces&logoColor=codeforces&labelColor=white)](https://codeforces.com/profile/AdilzhanB)
 </div>
 
